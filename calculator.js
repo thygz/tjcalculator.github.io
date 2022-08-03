@@ -24,7 +24,6 @@ buttons.forEach((item) => {
 
 })
 
-alert("Toggle me to show Light and Dark Mode");
 
 
 const toggleButton = document.querySelector('.theme');
