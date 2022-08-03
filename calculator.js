@@ -25,7 +25,6 @@ buttons.forEach((item) => {
 })
 
 
-
 const toggleButton = document.querySelector('.theme');
 const calculator = document.querySelector('.calculator');
 const themeIcon = document.querySelector('.themeIcon');
@@ -35,7 +34,4 @@ toggleButton.onclick = () => {
     toggleButton.classList.toggle('active');
     dark = !dark;
 }
-
-
-
 
